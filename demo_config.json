@@ -9,7 +9,8 @@
         "com.zebra.ams.device",
         "com.zebra.rfidreaderAPI.demo",
         "com.zebra.ses.barcodeblaster.barcodeblaster",
-        "io.github.vvb2060.keyattestation"
+        "io.github.vvb2060.keyattestation",
+        "com.displaylink.desktop.oem"
       ]
     },
     {
