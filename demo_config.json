@@ -9,7 +9,6 @@
         "com.zebra.ams.device",
         "com.zebra.rfidreaderAPI.demo",
         "com.zebra.ses.barcodeblaster.barcodeblaster",
-        "io.github.vvb2060.keyattestation",
         "com.displaylink.desktop.oem"
       ]
     },
@@ -35,6 +34,8 @@
         "com.symbol.tool.stagenow",
         "com.symbol.batterymanager",
         "com.symbol.rxloggerutility",
+        "com.zebra.licenseuiapp".
+        "com.symbol.zebrafolders"
       ]
     },
     {
@@ -42,14 +43,17 @@
       "category_description": "Bluetooth Utilities",
       "packages_to_display": [
         "com.symbol.btapp",
-        "com.symbol.emdk.emdkservice.barcode.SvcScanner"
+        "com.symbol.emdk.emdkservice.barcode.SvcScanner",
+        "com.zebra.bluetooth",
+        "com.zebra.zebravolumecontrol3"
       ]
     },
     {
       "category": "NFC",
       "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
-        "com.zebra.ses.nfcwriter"
+        "com.zebra.ses.nfcwriter",
+        "com.zebra.enterprisenfcsettings"
       ]
     },
     {
