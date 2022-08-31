@@ -23,7 +23,8 @@
       "category": "Print",
       "category_description": "Zebra Print MDNA applications",
       "packages_to_display": [
-        "com.zebra.jamesswinton.zebrapdfprintv2"
+        "com.zebra.jamesswinton.zebrapdfprintv2",
+        "com.zebra.printconnect"
       ]
     },
     {
@@ -49,7 +50,9 @@
       "category": "NFC",
       "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
-        "com.zebra.ses.nfcwriter"
+        "com.zebra.ses.nfcwriter",
+        "com.wakedev.wdnfc",
+        "com.nxp,taginfolite"
       ]
     },
     {
