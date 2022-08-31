@@ -8,7 +8,8 @@
         "com.zebra.gsc.mqtt_client",
         "com.zebra.ams.device",
         "com.zebra.rfidreaderAPI.demo",
-        "com.zebra.ses.barcodeblaster.barcodeblaster"
+        "com.zebra.ses.barcodeblaster.barcodeblaster",
+        "io.github.vvb2060.keyattestation"
       ]
     },
     {
