@@ -41,15 +41,15 @@
       "category_description": "Bluetooth Utilities",
       "packages_to_display": [
         "com.symbol.btapp",
-        "com.symbol.emdk.emdkservice.barcode.SvcScanner",
-        "com.zebra.bluetooth"
+        "com.zebra.bluetooth.settings"
       ]
     },
     {
       "category": "NFC",
       "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
-        "com.zebra.ses.nfcwriter"
+        "com.zebra.ses.nfcwriter",
+        "com.zebra.valueadd.enfc"
       ]
     },
     {
