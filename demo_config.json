@@ -8,8 +8,7 @@
         "com.zebra.gsc.mqtt_client",
         "com.zebra.ams.device",
         "com.zebra.rfidreaderAPI.demo",
-        "com.zebra.ses.barcodeblaster.barcodeblaster",
-        "com.displaylink.desktop.oem"
+        "com.zebra.ses.barcodeblaster.barcodeblaster"
       ]
     },
     {
@@ -34,8 +33,7 @@
         "com.symbol.tool.stagenow",
         "com.symbol.batterymanager",
         "com.symbol.rxloggerutility",
-        "com.zebra.licenseuiapp",
-        "com.symbol.zebrafolders"
+        "com.zebra.licenseuiapp"
       ]
     },
     {
@@ -44,16 +42,14 @@
       "packages_to_display": [
         "com.symbol.btapp",
         "com.symbol.emdk.emdkservice.barcode.SvcScanner",
-        "com.zebra.bluetooth",
-        "com.zebra.zebravolumecontrol3"
+        "com.zebra.bluetooth"
       ]
     },
     {
       "category": "NFC",
       "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
-        "com.zebra.ses.nfcwriter",
-        "com.zebra.enterprisenfcsettings"
+        "com.zebra.ses.nfcwriter"
       ]
     },
     {
