@@ -2,7 +2,7 @@
   "demo_configs": [
     {
       "category": "Solution Center",
-      "category_description": "Brno Demo's",
+      "category_description": "Demo's",
       "packages_to_display": [
         "com.zebra.jamesswinton.healthcareworkflowdemo",
         "com.zebra.gsc.mqtt_client",
@@ -21,14 +21,14 @@
     },
     {
       "category": "Print",
-      "category_description": "Promote our EMC functionality that makes printing simple",
+      "category_description": "Zebra Print MDNA applications",
       "packages_to_display": [
         "com.zebra.jamesswinton.zebrapdfprintv2"
       ]
     },
     {
       "category": "Utils",
-      "category_description": "Applications created for customers to aid their workflow, such as Stage Now",
+      "category_description": "Zebra MDNA applications",
       "packages_to_display": [
         "com.symbol.tool.stagenow",
         "com.symbol.batterymanager",
@@ -37,7 +37,7 @@
     },
     {
       "category": "Bluetooth",
-      "category_description": "Highlight our BT functionality, including BT Manager",
+      "category_description": "Bluetooth Utilities",
       "packages_to_display": [
         "com.symbol.btapp",
         "com.symbol.emdk.emdkservice.barcode.SvcScanner"
@@ -45,7 +45,7 @@
     },
     {
       "category": "NFC",
-      "category_description": "Showcase NFC and RFID technology on our devices",
+      "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
         "com.zebra.ses.nfcwriter"
       ]
