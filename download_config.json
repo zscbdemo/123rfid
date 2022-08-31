@@ -15,20 +15,6 @@
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/healthcare_workflow_demo.apk"
     },
     {
-      "name": "Fitting Room",
-      "category": "Solution Center",
-      "package_name": "com.zebra.gsc.mqtt_client",
-      "description": "Demonstrates FittingRoomAssistant",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/fr/master/FittingRoomAssistant.apk"
-    },
-    {
-      "name": "Intelligent Cabinet",
-      "category": "Solution Center",
-      "package_name": "com.zebra.ams.device",
-      "description": "Demonstrates Intelligent Cabinet",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/ic/master/Ams-Device.apk"
-    },
-    {
       "name": "123RFID Demo",
       "category": "Solution Center",
       "package_name": "com.zebra.rfidreaderAPI.demo",
@@ -53,14 +39,14 @@
       "name": "Box Size Demo",
       "category": "Third Party",
       "package_name": "com.zebra.jamesswinton.boxsizedemo",
-      "description": "Measure boxes using the device IMU with BoxSize SDK",
+      "description": "Measure boxes using the device IMU with BoxSize SDK ( SDA429 )",
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/box_size_demo.apk"
     },
     {
       "name": "NFC Writer",
       "category": "NFC",
       "package_name": "com.zebra.ses.nfcwriter",
-      "description": "Generate & write NFC tags with staging data to be used with StageNow (Credit: Gary Crean)",
+      "description": "Generate & write NFC tags with staging data to be used with StageNow",
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/nfc_writer.apk"
     }
   ]
