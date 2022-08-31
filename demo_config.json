@@ -49,7 +49,7 @@
       "category_description": "Showcase NFC and RFID",
       "packages_to_display": [
         "com.zebra.ses.nfcwriter",
-        "com.zebra.valueadd.enfc"
+        "com.android.nfc"
       ]
     },
     {
