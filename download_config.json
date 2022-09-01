@@ -22,6 +22,13 @@
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/123_RFID_Mobile.apk"
     },
     {
+      "name": "DataCapture1 Sample",
+      "category": "Scan",
+      "package_name": "com.zebra.datacapture1",
+      "description": "Datacapture1  demonstrates DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/DataCapture1.apk"
+    },
+    {
       "name": "Anchor Barcode Sample",
       "category": "Scan",
       "package_name": "com.zebra.jamesswinton.anchorbarcodesample",
