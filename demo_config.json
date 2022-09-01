@@ -6,36 +6,38 @@
       "packages_to_display": [
         "com.zebra.jamesswinton.healthcareworkflowdemo",
         "com.zebra.gsc.mqtt_client",
-        "com.zebra.ams.device",
-        "com.zebra.rfidreaderAPI.demo",
-        "com.zebra.ses.barcodeblaster.barcodeblaster"
+        "com.zebra.ams.device"
       ]
     },
     {
       "category": "Scan",
-      "category_description": "Demonstrate scanning capabilities such as barcode & document capture",
+      "category_description": "Scanning applications",
       "packages_to_display": [
         "com.symbol.datawedge",
-        "com.zebra.jamesswinton.anchorbarcodesample"
+        "com.zebra.jamesswinton.anchorbarcodesample",
+        "com.zebra.ses.barcodeblaster.barcodeblaster"
       ]
     },
     {
       "category": "Print",
-      "category_description": "Zebra Print MDNA applications",
+      "category_description": "Print MDNA applications",
       "packages_to_display": [
         "com.zebra.jamesswinton.zebrapdfprintv2",
-        "com.zebra.printconnect"
+        "com.zebra.printconnect",
+        "com.zebra.soho_app",
+        "com.zebra.printersetup"
       ]
     },
     {
       "category": "Utils",
-      "category_description": "Zebra MDNA applications",
+      "category_description": "MDNA applications",
       "packages_to_display": [
         "com.symbol.tool.stagenow",
         "com.symbol.batterymanager",
         "com.symbol.rxloggerutility",
         "com.zebra.licenseuiapp",
-        "com.zebra.smartmu.app"
+        "com.zebra.smartmu.app",
+        "com.symbol.selfdiagnostics"
       ]
     },
     {
@@ -48,16 +50,17 @@
     },
     {
       "category": "NFC",
-      "category_description": "Showcase NFC and RFID",
+      "category_description": "NFC and RFID Utilities",
       "packages_to_display": [
-        "com.zebra.ses.nfcwriter",
+        "com.zebra.rfidreaderAPI.demo",
         "com.wakedev.wdnfc",
-        "com.nxp,taginfolite"
+        "com.nxp,taginfolite",
+        "com.zebra.ses.nfcwriter"
       ]
     },
     {
       "category": "Third Party",
-      "category_description": "Apps / SDKs from 3rd party developers",
+      "category_description": "Apps / SDKs from 3rd party",
       "packages_to_display": [
         "com.google.mlkit.vision.demo",
         "com.zebra.jamesswinton.boxsizedemo"
