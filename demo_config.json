@@ -53,7 +53,7 @@
       "category_description": "NFC and RFID Utilities",
       "packages_to_display": [
         "com.zebra.rfidreaderAPI.demo",
-        "com.wakedev.wdnfc",
+        "com.wakdev.wdnfc",
         "com.nxp.taginfolite",
         "com.zebra.ses.nfcwriter"
       ]
