@@ -2,9 +2,9 @@
   "downloadable_demos": [
     {
       "name": "Bar Code Blaster",
-      "category": "Solution Center",
+      "category": "Scan",
       "package_name": "com.zebra.ses.barcodeblaster.barcodeblaster",
-      "description": "Famous Zebra's Barcode Blaster Game",
+      "description": "Zebra's Barcode Blaster Game",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/bcb/master/barcodeblasters.apk"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "123RFID Demo",
-      "category": "Solution Center",
+      "category": "NFC",
       "package_name": "com.zebra.rfidreaderAPI.demo",
       "description": "123RFID Mobile Demo by Zebra",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/123_RFID_Mobile.apk"
@@ -29,6 +29,20 @@
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/ng_simulscan_doc_capture.apk"
     },
     {
+      "name": "Zebra Print Connect",
+      "category": "Print",
+      "package_name": "com.zebra.printconnect",
+      "description": "Discover and Print to Link OS printer",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/PrintConnect.apk"
+    },
+    {
+      "name": "Zebra Printer Setup",
+      "category": "Print",
+      "package_name": "com.zebra.printersetup",
+      "description": "Setup a Link OS printer",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/printersetup.apk"
+    },
+    {
       "name": "Zebra PDF Print",
       "category": "Print",
       "package_name": "com.zebra.jamesswinton.zebrapdfprintv2",
@@ -36,11 +50,39 @@
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/zebra_pdf_print.apk"
     },
     {
+      "name": "Zebra ZSB Soho",
+      "category": "Print",
+      "package_name": "com.zebra.soho_app",
+      "description": "Setup a ZSB Series printer",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/ZSB_Series.apk"
+    },
+    {
+      "name": "Zebra Diagnostic Tool",
+      "category": "Utils",
+      "package_name": "com.symbol.selfdiagnostics",
+      "description": "Zebra Diagnostics Tool",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/DiagnosticTool.apk"
+    },
+    {
       "name": "Box Size Demo",
       "category": "Third Party",
       "package_name": "com.zebra.jamesswinton.boxsizedemo",
       "description": "Measure boxes using the device IMU with BoxSize SDK ( SDA429 )",
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/box_size_demo.apk"
+    },
+    {
+      "name": "NFC tools",
+      "category": "NFC",
+      "package_name": "com.wakedev.wdnfc",
+      "description": "NFC tools",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/wakdev_wdnfc.apk"
+    },
+    {
+      "name": "NXP TagInfo",
+      "category": "NFC",
+      "package_name": "com.nxp.taginfolite",
+      "description": "NXP TagInfo",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/nxp_taginfolite.apk"
     },
     {
       "name": "NFC Writer",
