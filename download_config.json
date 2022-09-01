@@ -73,7 +73,7 @@
     {
       "name": "NFC tools",
       "category": "NFC",
-      "package_name": "com.wakedev.wdnfc",
+      "package_name": "com.wakdev.wdnfc",
       "description": "NFC tools",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/wakdev_wdnfc.apk"
     },
