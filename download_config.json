@@ -27,7 +27,6 @@
       	"package_name": "com.symbol.wfc.pttpro",
       	"description": "Zebra Push-to-Talk Pro",
       	"download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/zebra_pttpro.apk"
-    
     },
     {
       "name": "DataCapture1 Sample",
