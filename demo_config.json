@@ -54,7 +54,7 @@
       "packages_to_display": [
         "com.zebra.rfidreaderAPI.demo",
         "com.wakedev.wdnfc",
-        "com.nxp,taginfolite",
+        "com.nxp.taginfolite",
         "com.zebra.ses.nfcwriter"
       ]
     },
