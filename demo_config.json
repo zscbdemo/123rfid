@@ -6,6 +6,7 @@
       "packages_to_display": [
         "com.zebra.jamesswinton.healthcareworkflowdemo",
         "com.zebra.gsc.mqtt_client",
+	"com.symbol.wfc.pttpro",
         "com.zebra.ams.device"
       ]
     },
