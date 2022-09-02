@@ -65,7 +65,8 @@
       "category_description": "Apps / SDKs from 3rd party",
       "packages_to_display": [
         "com.google.mlkit.vision.demo",
-        "com.zebra.jamesswinton.boxsizedemo"
+        "com.zebra.jamesswinton.boxsizedemo",
+        "com.sygic.aura"
       ]
     }
   ]
