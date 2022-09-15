@@ -11,7 +11,7 @@
       "name": "Healthcare Workflow Demo",
       "category": "Solution Center",
       "package_name": "com.zebra.jamesswinton.healthcareworkflowdemo",
-      "description": "Print patient details onto a Zebra wristband printer then scan the patients wristband to generate & print a sample label using a Zebra Label printer",
+      "description": "Print patient details onto Label or Wristband printer",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/HealthcareWorkflowDemo_v0_11.apk"
     },
     {
@@ -29,31 +29,38 @@
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/FittingRoom2.0.apk"
     },
     {
+      "name": "RFID Inventory",
+      "category": "Solution Center",
+      "package_name": "com.zebra.gec.rfidinventory",
+      "description": "Show case RFID Inventory",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/gec-fx-rfid-inventory-v1.2-(20220909).apk"
+    },
+    {
       "name": "123RFID Demo",
       "category": "NFC",
       "package_name": "com.zebra.rfidreaderAPI.demo",
-      "description": "123RFID Mobile Demo by Zebra",
+      "description": "Show case 123RFID Mobile Demo",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/123_RFID_Mobile.apk"
     },
     {
       "name": "Zebra PTT Pro",
       "category": "Solution Center",
       "package_name": "com.symbol.wfc.pttpro",
-      "description": "Zebra Push-to-Talk Pro",
+      "description": "Show case Push-to-Talk Pro",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/zebra_pttpro.apk"
     },
     {
       "name": "DataCapture1 Sample",
       "category": "Scan",
       "package_name": "com.zebra.datacapture1",
-      "description": "Datacapture1  demonstrates DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
+      "description": "Datacapture1 demonstrates DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/DataCapture1.apk"
     },
     {
       "name": "Anchor Barcode Sample",
       "category": "Scan",
       "package_name": "com.zebra.jamesswinton.anchorbarcodesample",
-      "description": "Demonstrates document capture with Next Generation Simul Scan",
+      "description": "Show case Document Capture with Next Generation Simul Scan",
       "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/ng_simulscan_doc_capture.apk"
     },
     {
