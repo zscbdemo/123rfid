@@ -7,7 +7,9 @@
         "com.zebra.jamesswinton.healthcareworkflowdemo",
         "com.zebra.gsc.mqtt_client",
         "com.symbol.wfc.pttpro",
-        "com.zebra.ams.device"
+        "com.zebra.gsc.personalkiosk",
+        "com.zebra.ams.device",
+        "com.zebra.ams.core"
       ]
     },
     {
