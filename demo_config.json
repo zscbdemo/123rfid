@@ -8,6 +8,8 @@
         "com.zebra.gsc.mqtt_client",
         "com.symbol.wfc.pttpro",
         "com.zebra.gsc.personalkiosk",
+        "com.zebra.gsc.fittingroom",
+        "com.zebra.gec.rfidinventory",
         "com.zebra.ams.device",
         "com.zebra.ams.core"
       ]
