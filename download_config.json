@@ -12,7 +12,7 @@
       "category": "Solution Center",
       "package_name": "com.zebra.jamesswinton.healthcareworkflowdemo",
       "description": "Print patient details onto a Zebra wristband printer then scan the patients wristband to generate & print a sample label using a Zebra Label printer",
-      "download_location": "https://downloads.jamesswinton.com/FeatureDemoApps/healthcare_workflow_demo.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/Healthcare Workflow Demo_v0_11.apk"
     },
     {
       "name": "123RFID Demo",
