@@ -5,126 +5,126 @@
       "category": "Scan",
       "package_name": "com.zebra.ses.barcodeblaster.barcodeblaster",
       "description": "Zebra's Barcode Blaster Game",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/bcb/master/barcodeblasters.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/barcodeblasters.apk"
     },
     {
       "name": "DataCapture1 Sample",
       "category": "Scan",
       "package_name": "com.zebra.datacapture1",
       "description": "Datacapture1 demonstrates DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/DataCapture1.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/DataCapture1.apk"
     },
     {
       "name": "Anchor Barcode Sample",
       "category": "Scan",
       "package_name": "com.zebra.jamesswinton.anchorbarcodesample",
       "description": "Show case Document Capture with Next Generation Simul Scan",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/ng_simulscan_doc_capture.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/ng_simulscan_doc_capture.apk"
     },
     {
       "name": "Healthcare Workflow Demo",
       "category": "Solution Center",
       "package_name": "com.zebra.jamesswinton.healthcareworkflowdemo",
       "description": "Print patient details onto Label or Wristband printer",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/HealthcareWorkflowDemo_v0_11.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/HealthcareWorkflowDemo_v0_11.apk"
     },
     {
       "name": "Personal Kiosk",
       "category": "Solution Center",
       "package_name": "com.zebra.gsc.personalkiosk",
       "description": "Show case PSS",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/pss_kiosk.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/pss_kiosk.apk"
     },
     {
       "name": "Fitting Room Assistant",
       "category": "Solution Center",
       "package_name": "com.zebra.gsc.mqtt_client",
       "description": "Show case FittingRoom Assist",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/FittingRoomAssistant.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/FittingRoomAssistant.apk"
     },
     {
       "name": "RFID Inventory",
       "category": "Solution Center",
       "package_name": "com.zebra.gec.rfidinventory",
       "description": "Show case RFID Inventory",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/gec-fx-rfid-inventory-v1.2-(20220909).apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/apk/master/gec-fx-rfid-inventory-v1-2-20220909.apk"
     },
     {
       "name": "Zebra PTT Pro",
       "category": "Solution Center",
       "package_name": "com.symbol.wfc.pttpro",
       "description": "Show case Push-to-Talk Pro",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/zebra_pttpro.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/zebra_pttpro.apk"
     },   
     {
       "name": "Zebra Diagnostic Tool",
       "category": "Utils",
       "package_name": "com.symbol.selfdiagnostics",
       "description": "Zebra Diagnostics Tool",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/DiagnosticTool.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/DiagnosticTool.apk"
     },
     {
       "name": "Zebra Print Connect",
       "category": "Print",
       "package_name": "com.zebra.printconnect",
       "description": "Discover and Print to Link OS printer",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/PrintConnect.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/PrintConnect.apk"
     },
     {
       "name": "Zebra Printer Setup",
       "category": "Print",
       "package_name": "com.zebra.printersetup",
       "description": "Setup a Link OS printer",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/printersetup.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/printersetup.apk"
     },
     {
       "name": "Zebra PDF Print",
       "category": "Print",
       "package_name": "com.zebra.jamesswinton.zebrapdfprintv2",
       "description": "Preview & print PDF files on Zebra printers with ease using PDFDirect & Bluetooth",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/zebra_pdf_print.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/zebra_pdf_print.apk"
     },
     {
       "name": "Zebra ZSB Soho",
       "category": "Print",
       "package_name": "com.zebra.soho_app",
       "description": "Setup a ZSB Series printer",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/ZSB_Series.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/ZSB_Series.apk"
     },
     {
       "name": "Box Size Demo",
       "category": "Third Party",
       "package_name": "com.zebra.jamesswinton.boxsizedemo",
       "description": "Measure boxes using the device IMU with BoxSize SDK",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/box_size_demo.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/box_size_demo.apk"
     },
     {
       "name": "123RFID Demo",
       "category": "NFC",
       "package_name": "com.zebra.rfidreaderAPI.demo",
       "description": "Show case 123RFID Mobile Demo",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/123_RFID_Mobile.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/123_RFID_Mobile.apk"
     },
     {
       "name": "NFC Writer",
       "category": "NFC",
       "package_name": "com.zebra.ses.nfcwriter",
       "description": "Generate & write NFC tags with staging data to be used with StageNow",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/nfc_writer.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/nfc_writer.apk"
     },
     {
       "name": "NFC tools",
       "category": "NFC",
       "package_name": "com.wakdev.wdnfc",
       "description": "NFC tools",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/wakdev_wdnfc.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/wakdev_wdnfc.apk"
     },
     {
       "name": "NXP TagInfo",
       "category": "NFC",
       "package_name": "com.nxp.taginfolite",
       "description": "NXP TagInfo",
-      "download_location": "https://raw.githubusercontent.com/zscbdemo/general/master/nxp_taginfolite.apk"
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/nxp_taginfolite.apk"
     }
   ]
 }
