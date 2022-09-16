@@ -5,8 +5,13 @@
       "category_description": "Demo's",
       "packages_to_display": [
         "com.zebra.jamesswinton.healthcareworkflowdemo",
+        "com.symbol.wfc.pttpro",
+        "com.zebra.gsc.personalkiosk",
+        "com.zebra.gsc.fittingroom",
         "com.zebra.gsc.mqtt_client",
-        "com.zebra.ams.device"
+        "com.zebra.ams.device",
+        "com.zebra.ams.core",
+        "com.zebra.gec.rfidinventory"
       ]
     },
     {
@@ -14,6 +19,7 @@
       "category_description": "Scanning applications",
       "packages_to_display": [
         "com.symbol.datawedge",
+        "com.zebra.datacapture1",
         "com.zebra.jamesswinton.anchorbarcodesample",
         "com.zebra.ses.barcodeblaster.barcodeblaster"
       ]
@@ -63,7 +69,8 @@
       "category_description": "Apps / SDKs from 3rd party",
       "packages_to_display": [
         "com.google.mlkit.vision.demo",
-        "com.zebra.jamesswinton.boxsizedemo"
+        "com.zebra.jamesswinton.boxsizedemo",
+        "com.sygic.aura"
       ]
     }
   ]
