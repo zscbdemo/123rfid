@@ -11,7 +11,7 @@
       "name": "DataCapture1 Sample",
       "category": "Scan",
       "package_name": "com.zebra.datacapture1",
-      "description": "Datacapture1 demonstrates DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
+      "description": "Datacapture1 demo DataWedge barcode scanning, configuration, scanner status notification and soft scan trigger",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/DataCapture1.apk"
     },
     {
@@ -22,6 +22,13 @@
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/ng_simulscan_doc_capture.apk"
     },
     {
+      "name": "Scanner Control App",
+      "category": "Scan",
+      "package_name": "com.zebra.scannercontrol.app",
+      "description": "Zebra Scanner Control",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/scannercontrol.apk"
+    },	
+    {
       "name": "Healthcare Workflow Demo",
       "category": "Solution Center",
       "package_name": "com.zebra.jamesswinton.healthcareworkflowdemo",
@@ -29,24 +36,31 @@
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/HealthcareWorkflowDemo_v0_12.apk"
     },
     {
+      "name": "4max Personal Shopping",
+      "category": "Solution Center",
+      "package_name": "org.a4_mobile.scanshop.android.fourmax",
+      "description": "Show case 4max Personal Shopping",
+      "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/app-client-android-fourmax-release.apk"
+    },
+    {
       "name": "Personal Kiosk",
       "category": "Solution Center",
       "package_name": "com.zebra.gsc.personalkiosk",
-      "description": "Show case PSS",
+      "description": "Show case PSS Solution Center",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/pss_kiosk.apk"
     },
     {
       "name": "Fitting Room Assistant",
       "category": "Solution Center",
       "package_name": "com.zebra.gsc.mqtt_client",
-      "description": "Show case FittingRoom Assist",
+      "description": "Show case FittingRoom Assist Solution Center",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/FittingRoomAssistant.apk"
     },
     {
       "name": "RFID Inventory",
       "category": "Solution Center",
       "package_name": "com.zebra.gec.rfidinventory",
-      "description": "Show case RFID Inventory",
+      "description": "Show case RFID Inventory Experience Center",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/general/apk/master/gec-fx-rfid-inventory-v1-2.apk"
     },
     {
@@ -81,7 +95,7 @@
       "name": "Zebra PDF Print",
       "category": "Print",
       "package_name": "com.zebra.jamesswinton.zebrapdfprintv2",
-      "description": "Preview & print PDF files on Zebra printers with ease using PDFDirect & Bluetooth",
+      "description": "Preview & Print PDF files on Zebra printers with ease using PDFDirect & Bluetooth",
       "download_location": "https://raw.githubusercontent.com/zscbdemo/apk/master/zebra_pdf_print.apk"
     },
     {
